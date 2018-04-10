@@ -103,3 +103,5 @@ xclock &
 Install Bitcoin Core on Docker Container
 
 Once the docker container is launched, we could either install the pre-packaged Bitcoin Core or build from the source of Bitcoin Core.
+
+Source: aixminds.com (http://aixminds.org/2018/04/09/a-simple-docker-container-for-bitcoin-gui-apps/) and medium.com (https://medium.com/@gmhuili/a-simple-docker-container-for-bitcoin-gui-apps-d4f6f448f078)
